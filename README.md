@@ -1,6 +1,5 @@
 RECHERCHE STAGE Avril 2026
 
-👋 ME STUFF...
 Étudiante en 3ᵉ année de licence MIAGE – Paris Nanterre, je recherche un stage dès avril 2026 dans le e-commerce, l’UX, et l’amélioration des SI. J’aime analyser, structurer et imaginer des solutions utiles pour les utilisateurs 🌟
 
 🔧 Ce sur quoi je travaille
