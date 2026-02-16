@@ -1,21 +1,19 @@
 🎯 RECHERCHE STAGE | Avril - Septembre 2026
 Étudiante L3 MIAGE à Paris Nanterre, je recherche un stage en développement web, UX/UI, e-commerce ou gestion de projet digital.
-💻 Compétences techniques
 
+💻 Compétences techniques
 Développement web : Python (Django), HTML/CSS, PHP, JavaScript
 Data & IA : SQL, SAS, DeepFace, OpenCV, Numpy
 Design & UX : Figma, analyse fonctionnelle, optimisation parcours utilisateurs
 Gestion de projet : SCRUM, modélisation UML/MERISE, documentation technique
 
-🚀 Projets récents
-
+🚀 Projets récents 
 Plateforme collaborative Django (gestion de foyer, gamification, déployée en ligne)
 Application de reconnaissance faciale par IA (DeepFace, OpenCV)
 App de chat crypté avec IA intégrée (Ollama)
 Site web interactif de culture générale (PHP, JSON)
 
-🌟 Ce qui me motive
-Concevoir des solutions digitales intuitives et performantes, en alliant rigueur technique et approche centrée utilisateur.
+🌟 Ce qui me motive => Concevoir des solutions digitales intuitives et performantes, en alliant rigueur technique et approche centrée utilisateur.
 
 🛠️ Outils
 
