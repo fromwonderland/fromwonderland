@@ -13,7 +13,7 @@ Application de reconnaissance faciale par IA (DeepFace, OpenCV)
 App de chat crypté avec IA intégrée (Ollama)
 Site web interactif de culture générale (PHP, JSON)
 
-🌟 Ce qui me motive => Concevoir des solutions digitales intuitives et performantes, en alliant rigueur technique et approche centrée utilisateur.
+🌟 Ce qui me motive => Concevoir des solutions digitales intuitives et performantes, en alliant rigueur technique et approche centrée utilisateur. Je travaille sur divers projets dans mon temps libre afin d'acquérir connaissances, compétences et expérience.
 
 🛠️ Outils
 
